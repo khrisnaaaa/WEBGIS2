@@ -1,2 +1,4 @@
 # WEBGIS2
-WOW
+repository untuk praktikum sipd
+
+link webgis : https://khrisnaaaa.github.io/WEBGIS2/
